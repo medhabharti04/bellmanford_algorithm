@@ -1,1 +1,2 @@
 # bellmanford_algorithm
+This project implements the Bellman-Ford algorithm using Python and HTML. The Python script performs the shortest path calculation, while the HTML interface allows users to input graph data, including vertices and edge weights, and visualize the results. The algorithm iteratively updates the shortest paths and provides the final distance to each vertex. The project ensures efficient pathfinding in a weighted graph, providing users with an interactive way to understand and apply the Bellman-Ford algorithm.
