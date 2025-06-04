@@ -1,1 +1,2 @@
 # bellmanford_algorithm
+This project implements the Bellman-Ford algorithm to find the shortest paths in a graph—even when some edges bring negative energy (weights). Unlike Dijkstra, Bellman-Ford doesn’t panic about setbacks and handles negative cycles like a pro (or at least detects them). Great for visualizing pathfinding with patience!
